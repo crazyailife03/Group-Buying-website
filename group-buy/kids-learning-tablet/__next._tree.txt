@@ -1,2 +1,2 @@
-:HL["/團購平台/_next/static/chunks/0sp6-yxpieu5r.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"group-buy","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kids-learning-tablet","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"tLX6o0OmtYmc0-0_lbyz-"}
+:HL["/Group-Buying-website/_next/static/chunks/0sp6-yxpieu5r.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"group-buy","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kids-learning-tablet","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"PMZFdOilUluliM7lKVAyz"}
