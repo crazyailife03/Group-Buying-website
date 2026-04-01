@@ -3,7 +3,10 @@
     "allow": [
       "Bash(yes \"N\")",
       "Bash(npx --yes create-next-app@latest /c/Users/USER/Desktop/123 --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --no-turbopack)",
-      "Bash(npx:*)"
+      "Bash(npx:*)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(curl:*)",
+      "Bash(npm run:*)"
     ]
   }
 }
